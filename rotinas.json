@@ -1,0 +1,41 @@
+[
+    {
+        "titulo":"Acordar",
+        "periodo":"manha",
+        "tarefa":[
+             { "hora":"08h00", "desc":"Tomar café (louça na pia)" }
+            ,{ "hora":"08h30", "desc":"Escovar os dentes" }
+            ,{ "hora":"08h35", "desc":"Fono (fazer com atenção)" }
+            ,{ "hora":"08h40", "desc":"Arrumar quarto" }
+            ,{ "hora":"08h45", "desc":"Vestir roupa (circo, futebol, casa)" }
+            ,{ "hora":"09h00", "desc":"Para-casa, estudo, livro" }
+        ]
+    },
+    {
+        "titulo":"Almoço",
+        "periodo":"almoco",
+        "tarefa":[
+             { "hora":"11h30", "desc":"Arrumar cômodos da casa" }
+            ,{ "hora":"11h35", "desc":"Arrumar quarto para robô passar" }
+            ,{ "hora":"11h40", "desc":"Trocar de roupa" }
+            ,{ "hora":"11h45", "desc":"Preparar mochila###AULAS###" }
+            ,{ "hora":"11h50", "desc":"Preparar merendeiras" }
+            ,{ "hora":"11h55", "desc":"Colocar meia e tênis, pentear cabelo" }
+            ,{ "hora":"12h00", "desc":"Aguardar mamãe" }
+        ]
+    },
+    {
+        "titulo":"Noite",
+        "periodo":"noite",
+        "tarefa":[
+             { "hora":"18h15", "desc":"Merendeiras na cozinha e mochila no quarto" }
+            ,{ "hora":"18h20", "desc":"Banho e hidratante (arrumar banheiro) ###DIA_DE_QUEM### primeiro" }
+            ,{ "hora":"19h20", "desc":"Para-casa" }
+            ,{ "hora":"20h50", "desc":"Arrumar ambientes (quarto cama e repelente, sala, etc) pra dormir" }
+            ,{ "hora":"20h55", "desc":"Fono (fazer com atenção)" }
+            ,{ "hora":"21h00", "desc":"Escovar os dentes e fio dental" }
+            ,{ "hora":"21h10", "desc":"Culto familiar" }
+            ,{ "hora":"21h40", "desc":"Água, xixi, dormir" }
+        ]
+    }
+]
